@@ -1,0 +1,8 @@
+.grid {
+	display: inline-flex;
+	border: solid;
+}
+.cell {
+	width: 30px;
+	height: 30px;
+}
